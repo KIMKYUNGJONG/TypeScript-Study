@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "loadsh": "0.0.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.149"
